@@ -1,0 +1,6 @@
+{
+  "name": "Zero-js",
+  "tagline": "The smallest 'framework' you'll ever use",
+  "body": "## The future is now.\r\n`zero.js` is the world's smallest javascript framework, compressed to only `0kb`. It requires no transpiling, no bable runtimes, and uses the javascript syntax you already know!\r\n\r\nSimply write your functions in plain old jacascript (`POJS`) and watch as they run seamlessly in the browser!\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
