@@ -11,7 +11,7 @@ Currently, the best way to begin using *zero-js* is by adding the script in your
 ```html
 <script type="text/javascript" src="https://github.com/smitec/zero-js/blob/master/zero.js" defer></script>
 ```
-Alternatively, we can use asycronous.
+Alternatively, we can use asynchronous.
 ```html
 <script type="text/javascript" src="https://github.com/smitec/zero-js/blob/master/zero.js" async></script>
 ```
