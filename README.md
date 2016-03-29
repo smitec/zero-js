@@ -1,4 +1,4 @@
-# [Zero-JS]( — How JavaScript should be!
+# [Zero-JS](https://smitec.io/zero-js/) — How JavaScript should be!
 *zero-js* is a lightframe, tiny framework, made my developers, for developers.
 
 ## Features: 
