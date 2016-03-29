@@ -1,5 +1,5 @@
 # [Zero-JS](https://smitec.io/zero-js/) — How JavaScript should be!
-*zero-js* is a lightframe, tiny framework, made my developers, for developers.
+*zero-js* is a lightframe, tiny framework, made by developers, for developers.
 
 ## Features: 
   - Supports plain old javascript.
