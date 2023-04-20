@@ -1,7 +1,7 @@
 # [Zero-JS](https://smitec.io/zero-js/) — How JavaScript should be! 
 [![Code Climate](https://codeclimate.com/github/smitec/zero-js/badges/gpa.svg)](https://codeclimate.com/github/smitec/zero-js) [![Test Coverage](https://codeclimate.com/github/smitec/zero-js/badges/coverage.svg)](https://codeclimate.com/github/smitec/zero-js/coverage) [![Issue Count](https://codeclimate.com/github/smitec/zero-js/badges/issue_count.svg)](https://codeclimate.com/github/smitec/zero-js) 
 
-*zero-js* is a lightframe, tiny framework, made my developers, for developers.
+*zero-js* is a lightframe, tiny framework, made by developers, for developers.
 
 ## Features: 
   - Supports plain old javascript.
